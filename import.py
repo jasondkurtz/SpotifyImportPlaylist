@@ -1,4 +1,3 @@
-#Jason K on 07/08/22 -- Didn't like iTunes anymore, so I made this! Thought i'd share my beginner spaghetti code.
 import spotipy
 import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials
